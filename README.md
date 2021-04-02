@@ -4,7 +4,7 @@
 - 我的博客 zhangyanlf.top
 - 我的爱好 篮球
 
-#### 您可以在[新浪微博](http://weibo.com/u/3965283870?refer_flag=1005055010_)，[Twitter](https://twitter.com/#!/zhangyanlf)或者[Github](https://github.com/zhangyanlf)上找到我。
+#### 您可以在[新浪微博](http://weibo.com/u/3965283870?refer_flag=1005055010_)，[Twitter](https://twitter.com/#!/zhangyanlf)上找到我。
 
 <!--
 **zhangyanlf/zhangyanlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
