@@ -6,8 +6,6 @@
 
 #### 您可以在[新浪微博](http://weibo.com/u/3965283870?refer_flag=1005055010_) [Twitter](https://twitter.com/#!/zhangyanlf)上找到我。
 
-<!--
-**zhangyanlf/zhangyanlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
